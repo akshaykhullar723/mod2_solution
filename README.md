@@ -3,8 +3,13 @@
 <head>
 <style>
 h1 {text-align: center;}
-p {text-align: left;}
+h3 {background-color: yellow;}
+p {text-align: left; background-color: pink;}
 div {text-align: left;}
+h1 { 
+    text-align: center; 
+    background-color: grey; 
+}
 </style>
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1">
